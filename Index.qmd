@@ -1,0 +1,26 @@
+---
+title: "Princess Eberechi Uzim"
+image: images/princess.jpg
+about: 
+  template: jolla
+  image-width: 14em
+  image-shape: round
+  links: 
+    - icon: whatsapp
+      text: Whatsapp
+      href: https://wa.me/+2349096716385
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/princess-uzim-644304192/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/theprincessuzim/
+    - icon: instagram
+      text: Instagram
+      href: qweqw
+    - icon: envelope
+      text: Contact me
+      href: mailto:princessuzim@gmail.com
+---
+
+I'm a dedicated young woman who's deeply passionate about STEM. My enthusiasm lies in utilizing Information Technology and digital solutions to foster sustainable value, all while embracing the organizational vision. <br>With a Bachelor of Education (B.Sc, Ed) in Mechanical Technology Education, I've also earned certifications in product management from Utiva and developed leadership and effective communication skills through Udemy and the McKinsey Forward Program at McKinsey & Company.

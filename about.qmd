@@ -1,0 +1,57 @@
+---
+title: "Princess Eberechi Uzim"
+about:
+  template: trestles
+  image: images/Dove.jpeg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/PrincessUzim
+    - icon: linkedIn
+      text: linkedIn
+      href: https://www.linkedin.com/in/princess-uzim-644304192/
+---
+## Introduction
+
+I am a young female STEM enthusiast with the passion for applying Information Technology and digital solutions in
+creating sustainable value while learning and imbibing the vision of the organization.  I also have a budding interest in organizational Operations Management. For the right opportunity I am definitely willing to relocate on request.
+
+
+## Education
+
+**Bachelor of Education** (B.Sc, Ed) Mechanical Technology Education 2016 – 2020  
+
+**Ebonyi State University**, Abakaliki, Ebonyi State, Nigeria.  
+
+**Final grade:** Second class upper (2.1)
+
+
+## Experience
+**Community Volunteer** | Women, Children’s Health and Community Development Initiative (WOCHAD)  Jan 2024 – Till date
+
+**Graduate** Teaching Assistant/Student Advisor | Fidei Polytechnic, Gboko, Benue State, Nigeria - (NYSC)  Nov 2022 – Oct 2023
+
+**Manager** | Gifted Point Restaurant and Stores, Ishieke, Ebonyi State, Nigeria   May 2019 – Nov 2022
+
+**Engineering Intern** | Feed De-Nation Technology Limited, Abakaliki, Ebonyi State, Nigeria  Nov 2018 – Apr 2019
+
+**Intern** | Freemanbiz Communication Limited, Abakaliki, Ebonyi State, Nigeria.  Sept 2017 - Nov 2017 
+
+## Professional Training
+
+**Mckinsey Forward** April 2024  
+Mckinsey & Company 
+
+**Product Management Professional Boot Camp** Mar 2024
+Utiva Academy  
+
+**Jobberman Soft-Skills Training** Jan 2024  
+Jobberman  
+
+**Leadership/ Effective Communication Skills** Sept 2023
+Udemy 
+
+## Hobbies
+I love to meet and interact with people of diverse cultures, travel for personal and professional
+development, love to learn of new cultures and languages and I also enjoy listening to podcasts and reading, sports
+(tennis, scrabble, and puzzle solving games).

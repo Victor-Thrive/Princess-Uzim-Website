@@ -1,0 +1,57 @@
+project: 
+  type: website
+website: 
+  title: "Princes Eberechi Uzim"
+  favicon: "images/princess.jpg"
+
+  page-footer:
+   center: |
+    <span class="container"><strong>Application built by [Victor Arowolo](mailto:princessuzim@gmail.com){target="_blank"}</strong></span>
+   left: |
+    <span class="container"><strong>Made with [Posit Quarto](https://quarto.org/){target="_blank"}</strong></span>
+   right: |
+    <span class="container"><strong>[Github Repo](https://github.com/){target="_blank"}</strong></span>
+   background: "#302926"
+
+  navbar: 
+    background: "#302926"
+    left:
+      - text: "Home"
+        file:  index.qmd
+      - text: "Resume"
+        file:  resume.qmd
+      - text: "About me"
+        file:  about me.qmd
+    right:
+      - icon: whatsapp
+        href: https://wa.me/+2349096716385
+        aria-label: Quarto Github
+      - icon: twitter
+        href: https://twitter.com/PrincessUzim
+        aria-label: Quarto Github
+      - icon: instagram
+        href: https://www.instagram.com/theprincessuzim/?hl=en
+        aria-label: Quarto Github
+      - icon: linkedin
+        href: https://www.linkedin.com/in/princess-uzim-644304192/
+        aria-label: Quarto Github
+
+  search: 
+    location: navbar
+    type: overlay
+
+format:
+  html:
+    grid: 
+      body-width: 2000px
+      sidebar-width: 200px
+      margin-width: 200px
+    theme:
+      light: [cosmo, theme_light_custom.scss]
+      dark: [cosmo, theme_dark_custom.scss]
+    css: styles.css
+    citations-hover: true
+    code-link: true
+    code-fold: show
+    code-tools: false
+    code-block-border-left: "#004E4F"

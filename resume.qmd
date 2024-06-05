@@ -1,0 +1,6 @@
+<div style="text-align: center;">
+ <iframe width="1050" 
+        height="1200" 
+        src="images/Princess Eberechi Uzim - Curriculum Vitae.pdf">
+ </iframe>
+</div>
